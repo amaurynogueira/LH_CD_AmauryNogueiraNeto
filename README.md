@@ -97,33 +97,33 @@ O dataset de treinamento contém 16 colunas, conforme descrito abaixo:
    git clone https://github.com/seu_usuario/projeto-precificacao-alugueis-nyc.git
 
 2. **Navegue até a pasta do projeto:**  
-cd projeto-precificacao-alugueis-nyc
+	cd projeto-precificacao-alugueis-nyc
 
 
 3.	**Instale as dependências:**
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
 
 
 *Execução*
-	•	Abra o Jupyter Notebook ou Google Colab e execute todas as células para:
-	•	Carregar e analisar os dados;
-	•	Gerar os gráficos e realizar a modelagem preditiva;
-	•	Criar o relatório PDF com todas as análises e insights.
-	•	O relatório PDF será salvo no diretório especificado no código.
+- Abra o Jupyter Notebook ou Google Colab e execute todas as células para:
+- Carregar e analisar os dados;
+- Gerar os gráficos e realizar a modelagem preditiva;
+- Criar o relatório PDF com todas as análises e insights.
+- O relatório PDF será salvo no diretório especificado no código.
 
 **Estrutura do Projeto**
-	•	notebook.ipynb: Notebook principal contendo o código e as análises.
-	•	Relatórios/: Pasta onde o relatório PDF gerado é salvo.
-	•	Dados/: Pasta com o dataset utilizado.
-	•	Modelo/: Pasta para salvar o modelo preditivo (.pkl).
+- notebook.ipynb: Notebook principal contendo o código e as análises.
+- Relatórios/: Pasta onde o relatório PDF gerado é salvo.
+- Dados/: Pasta com o dataset utilizado.
+- Modelo/: Pasta para salvar o modelo preditivo (.pkl).
 
 **Considerações Finais**
 
-Este projeto demonstra a integração de técnicas de análise de dados, modelagem preditiva e visualização para apoiar a tomada de decisões estratégicas no mercado de aluguéis temporários. A abordagem adotada – que inclui a extração de hipóteses de negócio, a validação robusta do modelo e a explicação detalhada da previsão de preços – pode ser expandida para outros mercados e conjuntos de dados, servindo como base para projetos futuros na área de ciência de dados aplicada a negócios.
+	Este projeto demonstra a integração de técnicas de análise de dados, modelagem preditiva e visualização para apoiar a tomada de decisões estratégicas no mercado de aluguéis temporários. A abordagem adotada – que inclui a extração de hipóteses de negócio, a validação robusta do modelo e a explicação detalhada da previsão de preços – pode ser expandida para outros mercados e conjuntos de dados, servindo como base para projetos futuros na área de ciência de dados aplicada a negócios.
 
 Referências
-	•	scikit-learn. User Guide. Disponível em: https://scikit-learn.org/stable/user_guide.html
-	•	LightGBM. Documentation. Disponível em: https://lightgbm.readthedocs.io/
-	•	FPDF. Documentation. Disponível em: https://pyfpdf.readthedocs.io/
+ - scikit-learn. User Guide. Disponível em: https://scikit-learn.org/stable/user_guide.html
+ - LightGBM. Documentation. Disponível em: https://lightgbm.readthedocs.io/
+ - FPDF. Documentation. Disponível em: https://pyfpdf.readthedocs.io/
 

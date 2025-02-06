@@ -1,4 +1,4 @@
-# LH_CD_AmauryNogueiraNeto - Projeto de Precificação de Aluguéis Temporários - NYC
+# Projeto de Precificação de Aluguéis Temporários - NYC
 
 ## Introdução  
 Este projeto foi desenvolvido como parte do desafio para Cientista de Dados da Indicium. O objetivo é testar conhecimentos em resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos. Nele, foi construída uma estratégia para previsão de preços de aluguéis temporários na cidade de Nova York, que abrange desde uma análise exploratória dos dados do maior concorrente até a validação e explicação do modelo preditivo. **Observação:** Não existe resposta certa – o que importa é a capacidade de descrever e justificar os passos utilizados na resolução do problema.

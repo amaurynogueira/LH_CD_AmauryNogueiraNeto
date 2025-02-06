@@ -120,7 +120,7 @@ O dataset de treinamento contém 16 colunas, conforme descrito abaixo:
 
 **Considerações Finais**
 
-	Este projeto demonstra a integração de técnicas de análise de dados, modelagem preditiva e visualização para apoiar a tomada de decisões estratégicas no mercado de aluguéis temporários. A abordagem adotada – que inclui a extração de hipóteses de negócio, a validação robusta do modelo e a explicação detalhada da previsão de preços – pode ser expandida para outros mercados e conjuntos de dados, servindo como base para projetos futuros na área de ciência de dados aplicada a negócios.
+Este projeto demonstra a integração de técnicas de análise de dados, modelagem preditiva e visualização para apoiar a tomada de decisões estratégicas no mercado de aluguéis temporários. A abordagem adotada – que inclui a extração de hipóteses de negócio, a validação robusta do modelo e a explicação detalhada da previsão de preços – pode ser expandida para outros mercados e conjuntos de dados, servindo como base para projetos futuros na área de ciência de dados aplicada a negócios.
 
 Referências
  - scikit-learn. User Guide. Disponível em: https://scikit-learn.org/stable/user_guide.html
